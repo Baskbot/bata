@@ -1,0 +1,2 @@
+- name: Platform.sh Database Backup and S3 Sync
+  uses: ChromaticHQ/platformsh-db-dump-s3-sync-action@1.0.0
